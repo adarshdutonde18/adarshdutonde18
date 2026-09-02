@@ -1,141 +1,181 @@
-👋 Hi, I'm Adarsh!
+<!-- ============================================================= -->
 
-🚀 Data Science Student | Aspiring Software Developer | AI & ML Enthusiast
+<!--                  ADARSH DUTONDE | GITHUB PROFILE              -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Data+Science+%7C+AI+%7C+Machine+Learning;Always+Learning+and+Building+🚀;Future+Software+Engineer+💻" />
-</p>---
+<!-- ============================================================= -->
 
-🚀 About Me
+<div align="center">
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">🎓 I am a Data Science Engineering Student passionate about technology and innovation.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=260&amp;color=0:0B1220,50:1E3A8A,100:0EA5E9&amp;text=ADARSH%20DUTONDE&amp;fontSize=58&amp;fontColor=FFFFFF&amp;fontAlignY=40&amp;animation=fadeIn&amp;desc=Data%20Science%20Student%20%7C%20Software%20Developer%20&amp;descAlignY=60&amp;descSize=18&amp;descColor=E0F2FE"/>
 
-🔭 Currently learning:
+<br/>
 
-- 🐍 Python
-- 📊 Data Science
-- 🤖 Machine Learning
-- 💻 C++
-- 🌐 Web Development
+<img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=24&amp;duration=3500&amp;pause=1200&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=90&amp;lines=Hi%2C+I'm+Adarsh+Dutonde.;Welcome+to+my+GitHub+profile.;Building+skills+in+Data+Science%2C+AI+and+Machine+Learning.;Learning.+Building.+Improving."/>
 
-🌱 My goal is to become a skilled Data Scientist / Software Engineer.
+<br/>
 
-💡 I enjoy solving problems, building projects, and learning new technologies.
+<a href="https://www.linkedin.com/in/adarsh-dutonde-072502387">
+  <img src="https://img.shields.io/badge/LinkedIn-Adarsh%20Dutonde-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white"/>
+</a>
 
-⚡ Fun fact: I believe consistency is more powerful than motivation!
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&amp;logo=github&amp;logoColor=white"/>
+</a>
 
-<br clear="both">---
-
-🛠️ Tech Stack
-
-👨‍💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js" />
-</p>🌐 Web Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
-</p>📊 Data Science & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
-</p>---
-
-📊 GitHub Statistics
-
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=adarshdutonde18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshdutonde18&layout=compact&theme=tokyonight&hide_border=true"/></p>---
-
-🔥 GitHub Streak
-
-<p align="center"><img src="https://streak-stats.demolab.com?user=adarshdutonde18&theme=tokyonight&hide_border=true" /></p>---
-
-📈 Contribution Graph
-
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshdutonde18&theme=tokyo-night&hide_border=true" /></p>---
-
-🐍 Contribution Snake Animation
-
-<p align="center"><img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" /></p>---
-
-🏆 GitHub Achievements
-
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=adarshdutonde18&theme=tokyonight&no-frame=true&margin-w=10" /></p>---
-
-🚀 Featured Projects
-
-🌾 AgroVision AI
-
-🤖 AI-powered agriculture project that helps farmers with intelligent crop recommendations and disease detection.
-
-Technologies:
-
-"Python" • "Machine Learning" • "AI" • "Data Science"
+</div>
 
 ---
 
-🎓 Student Placement Prediction System
+## About
 
-A Machine Learning project that predicts student placement possibilities based on academic and skill-related data.
+I am a **Data Science Engineering student** with a growing interest in **Data Science, Artificial Intelligence, and Machine Learning**.
 
-Technologies:
+I enjoy learning through hands-on projects, improving my programming skills, and exploring how data and technology can be used to solve real-world problems.
 
-"Python" • "Pandas" • "NumPy" • "Scikit-learn"
-
----
-
-🌱 FarmGuard AI
-
-An intelligent agriculture solution for:
-
-- 🌾 Crop Recommendation
-- 🦠 Plant Disease Detection
-- 📊 Smart Agriculture Analysis
-
-Technologies:
-
-"Python" • "Machine Learning" • "AI"
+**Current focus:** Python • Data Analysis • Machine Learning • Data Structures & Algorithms
 
 ---
 
-📚 Currently Learning
+## Technical Skills
 
-💻 Data Structures & Algorithms
-🐍 Advanced Python
-📊 Data Analysis
-🤖 Machine Learning
-🧠 Artificial Intelligence
-☁️ Cloud Computing
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,git,github,vscode,linux&amp;theme=dark"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Data%20Science-0284C7?style=flat-square&amp;logo=pandas&amp;logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-0F766E?style=flat-square&amp;logo=mysql&amp;logoColor=white"/>
+
+</div>
 
 ---
 
-🎯 My Goals
+## Areas of Interest
 
-🎯 Become a skilled Data Scientist
-🚀 Build impactful AI & ML projects
-💻 Improve Data Structures & Algorithms
-🌐 Contribute to Open Source
-🏆 Get a great placement opportunity
-📈 Keep learning every day
+```text id="j9u8kp"
+Data Science
+Artificial Intelligence
+Machine Learning
+Data Analysis
+Problem Solving
+Software Development
+```
 
 ---
 
-📫 Connect With Me
+## GitHub Statistics
 
-<p align="center"><a href="https://www.linkedin.com/in/Adarsh Dutonde">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a><a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a><a href="https://github.com/adarshdutonde18">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a></p>---
+<div align="center">
 
-👀 Profile Visitors
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;include_all_commits=true"/>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=adarshdutonde18&label=Profile%20Views&color=00C4FF&style=for-the-badge" /></p>---
+<img height="170" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&amp;theme=transparent&amp;hide_border=true"/>
 
-<p align="center">⭐ Thanks for visiting my profile!
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Keep+Learning+%F0%9F%9A%80;Keep+Building+%F0%9F%92%BB;Never+Give+Up+%F0%9F%94%A5" /></p><p align="center">⭐ If you like my projects, consider giving them a star!
+---
 
-</p>
+## Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;langs_count=6"/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&amp;bg_color=FFFFFF00&amp;color=2563EB&amp;line=0EA5E9&amp;point=2563EB&amp;area=true&amp;hide_border=true"/>
+
+</div>
+
+---
+
+## Featured Projects
+
+### 🌾 AgroVision AI
+
+An AI-based smart agriculture project focused on crop recommendations and intelligent agricultural solutions.
+
+**Tech:** Python • Machine Learning • Data Science
+
+---
+
+### 🎓 Student Placement Prediction System
+
+A Machine Learning project designed to analyze student data and predict placement possibilities.
+
+**Tech:** Python • Pandas • Scikit-learn
+
+---
+
+### 📊 Data Analysis Projects
+
+Exploring datasets, identifying patterns, and generating meaningful insights through data analysis and visualization.
+
+**Tech:** Python • Pandas • NumPy
+
+---
+
+## Currently Learning
+
+```text id="2qhlj9"
+Python Programming
+Data Structures & Algorithms
+Data Analysis
+Machine Learning
+Artificial Intelligence
+SQL
+```
+
+---
+
+## Professional Goal
+
+> To develop strong technical expertise in Data Science and Artificial Intelligence while building meaningful projects that solve real-world problems.
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/adarsh-dutonde-072502387">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&amp;label=Profile%20Views&amp;color=0EA5E9&amp;style=flat-square"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&amp;size=18&amp;duration=4000&amp;pause=1500&amp;color=64748B&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Thanks+for+visiting+my+profile.;Always+learning.+Always+building."/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0EA5E9,50:1E3A8A,100:0B1220&amp;height=120&amp;section=footer"/>
+
+<!-- ============================================================= -->
+
+<!--                         END OF README                          -->
+
+<!-- ============================================================= -->
